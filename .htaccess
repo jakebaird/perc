@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+Redirect 301 /index.html https://www.perctiling.com.au/
