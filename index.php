@@ -137,12 +137,12 @@
                             <a id="show-more" href="#read-more">Read More</a> 
 <div id="read-more">
     <h1>Brisbane Tiling Services</h1>
-<h2>Tiling Brisbane Residents Can Trust</h2>
+<h2>Tiling That Brisbane Residents Can Trust</h2>
 <p>Tiling is a powerful option for any project. It can come in a variety of materials and can work in many areas of the home to offer a durable, elegant and practical surface. Of course, tiling isn&rsquo;t just reserved for residential buildings, but it is also used extensively within commercial areas due to the modern and practical feel that it can create.</p>
 <p>Given that cleaning and general maintenance becomes easier, tiling is a long-lasting option which is easier to maintain and care for. This means that you can keep the brand-new look for years to come.</p>
 <p>Given these benefits, it&rsquo;s little wonder that tiling is such a popular choice. To get the best results, though, you&rsquo;ve got to find a <strong>Brisbane tiling service</strong> you can trust. If not, you run the risk of having a sub-standard job which leads to headaches, constant maintenance and in some extreme cases, structural damage.</p>
 <p>Countless businesses and residents trust PERC Tiling to bring their vision to life with the best materials and workmanship possible. Here&rsquo;s a deeper look at why we&rsquo;re the go-to <strong>tilers Brisbane City</strong> trusts.</p>
-<h2>Commercial and Residential Solutions</h2>
+<h2>Commercial and Residential Tiling Solutions</h2>
 <p>Many of our customers appreciate the breadth of our experience. Given that we are comfortable tackling both commercial and residential projects we offer the best of both worlds: large-scale capabilities with the delicate and careful touch that makes every project special.</p>
 <p>The two sides of our work influence the other to help us offer the best results regardless of your requirements or size. Our founder, Peter Russ, has 18 years of experience in offering both types of solutions and he has handpicked our team of highly-skilled industry professionals who are dedicated to getting the best results every single time.</p>
 <h2>Competitive Pricing</h2>
@@ -166,7 +166,7 @@
 <h2>Learn More About Us Today</h2>
 <p>We understand that you&rsquo;re making a big decision, which is why we have made a concerted effort to make information about us available to you. You can visit our website to learn all that you need to know about us and even explore our social media channels to get closer to our team and the work that we do.</p>
 <p>We&rsquo;re also happy to answer any questions that you may have. Simply visit our website, read through our information and we look forward to hearing from you soon and creating a masterpiece for you.</p>
-<p>Perc Tiling are a professional <a href="/">Brisbane tiling service</a> specialising in <a href="/wall-tiles-brisbane.html">wall tiles</a>, <a href="/kitchen-tiles-brisbane.html">kitchen tiles</a> and general <a href="/tile-installation-brisbane.html">tile installation</a> services.</p> We also look after all <a href="/tile-repairs-brisbane.html">tile repairs</a> as well as all <a href="/residential-tiling-brisbane.html">residential </a>& <a href="/commercial-tiling-brisbane.html">commercial tiling</a> needs.</p>
+<p>Perc Tiling are a professional <a href="/">Brisbane tiling service</a> specialising in <a href="/wall-tiles-brisbane.html">wall tiles</a>, <a href="/kitchen-tiles-brisbane.html">kitchen tiles</a> and general <a href="/tile-installation-brisbane.html">tile installation</a> services. We also look after all <a href="/tile-repairs-brisbane.html">tile repairs</a> as well as all <a href="/residential-tiling-brisbane.html">residential </a>& <a href="/commercial-tiling-brisbane.html">commercial tiling</a> needs.</p>
 <a id="hide-less" href="#read-more">Read Less</a>
 </div>
                         </div>
