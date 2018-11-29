@@ -358,7 +358,9 @@
             <footer class="footer-7 text-center-xs">
                 <div class="container">
                     <div class="row">
-                        <div class="col-sm-6"> <span class="type--fine-print">© PERC Group&nbsp;<span class="update-year">2018</span></span>
+                        <div class="col-sm-6"> <span class="type--fine-print">© PERC Group&nbsp;<span class="update-year">2018</span><span id="kk-tag-other">Digital Marketing by King Kong</span>
+<span id="kk-tag-home"> Digital Marketing by <a href="https://kingkong.com.au/" target="_blank">King Kong</a></span>
+</span>
                         </div>
                         <div class="col-sm-6 text-right text-center-xs">
                             <ul class="social-list list-inline">
