@@ -5,6 +5,12 @@
          <title>Affordable & Professional Tilers Brisbane City | Perc Tiling</title>
         <meta name="description" content="PERC Tiling are your professional & affordable tilers around Brisbane City. Get in touch with us on 1300 414 162 to find a good tiler that won't cost an arm & a leg"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <script src="js/jquery-3.1.1.min.js"></script>
+        <script src="js/flickity.min.js"></script>
+        <script src="js/parallax.js"></script>
+        <script src="js/isotope.min.js"></script>
+        <script src="js/smooth-scroll.min.js"></script>
+        <script src="js/scripts.js"></script>
         <link href="css/stack-interface.css" rel="stylesheet" type="text/css" media="all">
         <link href="css/socicon.css" rel="stylesheet" type="text/css" media="all" />
         <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
@@ -413,12 +419,7 @@
                 </div>
             </footer>
         </div>
-        <script src="js/jquery-3.1.1.min.js"></script>
-        <script src="js/flickity.min.js"></script>
-        <script src="js/parallax.js"></script>
-        <script src="js/isotope.min.js"></script>
-        <script src="js/smooth-scroll.min.js"></script>
-        <script src="js/scripts.js"></script>
+       
 
     </body>
 
