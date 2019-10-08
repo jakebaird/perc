@@ -61,10 +61,14 @@
                             </div>
                             <div class="col-md-11 col-sm-10 col-xs-9">
                                 <div class="bar__module">
+                                   
+                               
+                                <div class="bar__module">
                                     <div class="modal-instance pull-right">
                                         <ul class="menu-horizontal text-left">
-                                            <li>  <a href="tel:1300414162">1300 414 162</a> </li></p>
+                                            <li> <b> <a href="tel:1300414162">1300 414 162</a> </b> </li></p>
                                         </ul>
+
                                         <a class="modal-trigger menu-toggle" href="#"> <i class="stack-interface stack-menu"></i> </a>
                                         <div class="modal-container menu-fullscreen">
                                             <div class="modal-content" data-width="100%" data-height="100%">
@@ -101,16 +105,16 @@
             </div>
         </div>
         <div class="main-container">
-            <section class="cover height-70 imagebg text-center slider slider--ken-burns" data-arrows="true" data-paging="true" data-timing="6000">
+            <section class="cover height-70 imagebg text-center slider " data-arrows="true" data-paging="true" data-timing="6000">
                 <ul class="slides">
                     <li class="imagebg parallax" data-overlay="4">
                         <div class="background-image-holder"> <img alt="background" src="img/banner2.jpg"> </div>
                         <div class="container pos-vertical-center">
                             <div class="row">
                                 <div class="col-sm-12">
-                                    <h2 class="kkh2"> Capturing the hearts of our customers dreams </h2>
-                                    <a class="btn btn--primary type--uppercase" href="gallery.html"> <span class="btn__text">
-                                View The Gallery
+                                    <h2 class="kkh2"> We deliver high quality tiling installation. </h2>
+                                    <a class="btn btn--primary type--uppercase" href="#quote"> <span class="btn__text">
+                                Free Onsite Quote
                             </span> </a>
                                 </div>
                             </div>
@@ -121,9 +125,9 @@
                         <div class="container pos-vertical-center">
                             <div class="row">
                                 <div class="col-sm-12">
-                                    <h2 class="kkh2"> Capturing the hearts of our customers dreams </h2>
-                                    <a class="btn btn--primary type--uppercase" href="gallery.html"> <span class="btn__text">
-                                View The Gallery
+                                    <h2 class="kkh2"> We deliver high quality tiling installation. </h2>
+                                    <a class="btn btn--primary type--uppercase" href="#quote"> <span class="btn__text">
+                                 Free Onsite Quote
                             </span> </a>
                                 </div>
                             </div>
@@ -343,7 +347,7 @@
                     </div>
                 </div>
             </section>
-            <section class="text-center unpad--bottom switchable cta cta-3">
+           <!-- <section class="text-center unpad--bottom switchable cta cta-3">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-6 col-md-7">
@@ -355,6 +359,21 @@
                             </div>
                         </div>
                         
+                    </div>
+                </div>
+            </section> -->
+             <section>
+                <div class="container">
+                    <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+                    <div class="elfsight-app-485f1566-c38f-4bd3-955f-8b0f6b4bcf70"></div>
+                </div>
+            </section>
+            <section>
+                <div class="container">
+                    <div class="row" id="quote">
+                       <div class="typeform-widget" data-url="https://jakebaird145767.typeform.com/to/Dsk9s2" data-transparency="50" data-hide-headers=true data-hide-footer=true style="width: 100%; height: 500px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;">  <a href="https://admin.typeform.com/signup?utm_campaign=Dsk9s2&utm_source=typeform.com-14715121-Essentials&utm_medium=typeform&utm_content=typeform-embedded-poweredbytypeform&utm_term=EN" style="color: #999" target="_blank"></a> </div>
+
+
                     </div>
                 </div>
             </section>
